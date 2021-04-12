@@ -3,4 +3,4 @@ gei is fee software too.
 the third update.
 inset new line,test release.
 two commit
-create branch dev and update readme
+create branch dev $ update readme
