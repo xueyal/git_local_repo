@@ -1,2 +1,2 @@
 git is distributed version control system.
-gei is fee software.
+gei is fee software too.
