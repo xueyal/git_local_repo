@@ -12,3 +12,4 @@ new 2
 new 3
 new 4
 rebase 2
+rebase 3
